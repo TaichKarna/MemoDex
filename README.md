@@ -2,6 +2,8 @@
 
 Memodex is an engaging Pokémon-themed memory game built using React. It offers a fun and challenging experience for players of all ages, allowing them to test their memory skills while exploring the colorful world of Pokémon.
 
+## Visit live: https://memodex.netlify.app/
+
 ## Features
 
 - **Pokémon Characters**: Encounter a wide array of Pokémon characters, from the classic Pikachu to the legendary Mewtwo.
